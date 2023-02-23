@@ -24,4 +24,4 @@
 
     - Refresh Github page =>Code should be show up.
 
-    - Go to setting --> pages --> main --> branch --> save.
+    - Go to setting --> pages --> branch --> main --> save.
