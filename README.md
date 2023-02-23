@@ -15,3 +15,13 @@
     - Leave "Inialize with a README.md" unchecked.
 
     - click submit.
+
+    - redirects to sample code for pushing.
+
+    - copy and paste the command in the terminal
+
+    - Now your code uploaded in GITHUB.
+
+    - Refresh Github page =>Code should be show up.
+
+    - Go to setting --> pages --> main --> branch --> save.
