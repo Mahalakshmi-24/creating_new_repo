@@ -11,3 +11,7 @@
     - name of the repo
 
     - select public repo
+
+    - Leave "Inialize with a README.md" unchecked.
+
+    - click submit.
